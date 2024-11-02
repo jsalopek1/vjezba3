@@ -1,9 +1,8 @@
 <?php
-// Konkatenacija
-$title = "<p> Da Vincijev";
-$title .= " kod</p>"; 
-$link = "<p>https://hr.wikipedia.org/";
-$link .= "Da_Vincijev_kod</p>"; 
+$title = "Da Vincijev";
+$title .= " kod"; 
+$link = "https://hr.wikipedia.org/";
+$link .= "Da_Vincijev_kod<"; 
 ?>
 
 <!DOCTYPE html>
